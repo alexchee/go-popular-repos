@@ -22,9 +22,5 @@ _testmain.go
 *.exe
 *.test
 *.prof
-
-# OSX files
-*.DS_Store
-
-# env file
-.env
+*.test
+*.out
