@@ -5,6 +5,8 @@ Just a learning Go app to list Github repos sorted by stars, that can be deploye
 
 Based on [Heroku tutorial](https://devcenter.heroku.com/articles/getting-started-with-go).
 
+example heroku app: https://powerful-beach-30230.herokuapp.com
+
 ## Running Locally
 
 ### Setup
